@@ -1885,9 +1885,8 @@
 		font-style: italic;
 	}
 	p b {
-		font-style:italic
-	}
-
+         
+        }
 	header h1 + p {
 		margin-top: -1em;
 	}
